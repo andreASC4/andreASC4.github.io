@@ -1,4 +1,4 @@
-// Contact Form Scripts
+6// Contact Form Scripts
 
 $(function() {
 
